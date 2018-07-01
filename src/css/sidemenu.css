@@ -1,0 +1,26 @@
+
+.side-menu {
+    flex-basis: 0;
+    margin: 2rem 2rem;
+}
+.side-menu button {
+    min-width: 7rem;
+    padding: 0 1em;
+    margin: 0.5em 0.7em;
+    border-radius: 1em;
+    font-size: x-large;
+}
+
+.coupon-menu {
+    min-width: 20rem;
+}
+.coupon-menu button{
+    min-width: 18rem;
+    padding: 0 1em;
+    margin: 0.5em 1em;
+    border-radius: 1em;
+    font-size: x-large;
+}
+.selected-coupon {
+    background-color: cornflowerblue;
+}

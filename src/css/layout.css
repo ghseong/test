@@ -1,0 +1,26 @@
+.content-container {
+    flex-basis: auto;
+}
+h1 {
+    text-align: center;
+}
+.menu-container {
+    display: flex;
+    flex-basis: auto;
+}
+.spacer {
+    clear: both;
+    overflow: hidden;
+    height: 0;
+    font-size: 1px;
+}
+
+button {
+    background-color: aliceblue;
+    font-size: large;
+}
+
+
+.non-visible {
+    display: none;
+}

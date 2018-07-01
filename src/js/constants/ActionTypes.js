@@ -1,0 +1,10 @@
+export const INCREASE_ITEM = 'INCREASE_ITEM';
+export const DECREASE_ITEM = 'DECREASE_ITEM';
+export const INIT_ITEM = 'INIT_ITEM';
+export const INIT_COUPON = 'INIT_COUPON';
+export const SELECT_COUPON = 'SELECT_COUPON';
+export const INIT_PAYMENT = 'INIT_PAYMENT';
+export const SELECT_PAYMENT = 'SELECT_PAYMENT';
+export const CHECKOUT = 'CHECKOUT';
+export const SET_TOGGLED = 'SET_TOGGLED';
+export const RESET_TOGGLED = 'RESET_TOGGLED';

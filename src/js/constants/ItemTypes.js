@@ -1,0 +1,4 @@
+export const AMERICANO_TAKEOUT = 'AMERICANO_TAKEOUT';
+export const AMERICANO = 'AMERICANO';
+export const CAFE_LATTE = 'CAFE_LATTE';
+export const CARAMEL_LATTE = 'CARAMEL_LATTE';
